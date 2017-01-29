@@ -3,7 +3,7 @@
 /**
 * Usage: php CsvReaderThing.php
 * 	Should print CSV files under ./data directory or let you specify a directory otherwise
-*   Use for whatever you like. Meant to be a simple script - sorry for the lack of comments / revision etc. 
+*   Use for whatever you like. Meant to be a simple script - sorry for the lack of comments / polishing etc. 
 *   I wrote it because I was feeling down ( not having a good day: a mosque burned down today )
 */
 
