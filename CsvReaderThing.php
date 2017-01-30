@@ -16,7 +16,7 @@ class CsvReaderThing{
  	private $selectedFile = ""; 
  
 	// ask if should look for data folder or needs specified
-	function CsvReaderThing(){
+	function __construct(){
 		$this->logInfo( "Looking for the data folder." );
 		// set the folder location for the csv files
 		$this->setDataDir();
